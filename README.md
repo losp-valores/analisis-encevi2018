@@ -79,7 +79,7 @@ MCO y Ridge (`lambda.min`) presentaron errores prácticamente idénticos, por lo
 .
 ├── README.md          # Documentación general, metodología y resultados
 ├── LICENSE            # Licencia aplicable al código del repositorio
-├── script_analisis.R  # Script completo en R (depuración, descriptivos, MCO, HC3 y Ridge)
+├── analisis_encevi2018.R  # Script completo en R (depuración, descriptivos, MCO, HC3 y Ridge)
 └── datos/             # Bases de datos de ENCEVI 2018 utilizadas en el flujo
 ```
 
